@@ -1,5 +1,5 @@
 # Techno-Legal System Model: Integrated Occupational Safety Ecosystem
-Not: 82 sayfalık PDF dosyamız 35+MB olduğu için açılırken biraz bekletebilir, anlayışınız için teşekkür ederim.
+**Not:** 82 sayfalık PDF dosyamız 35+MB olduğu için açılırken biraz bekletebilir, anlayışınız için teşekkür ederim.
 
 ## 📌 Giriş
 
